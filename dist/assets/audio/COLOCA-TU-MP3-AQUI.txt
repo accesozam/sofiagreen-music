@@ -1,0 +1,7 @@
+🎵 INSTRUCCIONES
+
+1. Copia tu archivo mantra-2026.mp3 a esta carpeta
+2. El proyecto lo detectará automáticamente
+3. Para agregar más canciones, actualiza src/data/songs.js
+
+Formatos soportados: MP3, WAV, OGG
